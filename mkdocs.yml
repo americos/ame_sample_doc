@@ -1,0 +1,8 @@
+site_name: "ame_sample_doc"
+site_description: "A sample of creating a Backstage Doc Template"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "ame_sample_doc"
+  description: "A sample of creating a Backstage Doc Template"
+  annotations:
+    github.com/project-slug: americos/ame_sample_doc
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Engineering"
