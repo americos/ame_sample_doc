@@ -4,7 +4,7 @@ metadata:
   name: "engineering_docs"
   description: "Home of the Mux Engineering docs"
   annotations:
-    github.com/project-slug: americos/ame_sample_doc
+    github.com/project-slug: americos/engineering_docs
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation

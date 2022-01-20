@@ -4,7 +4,7 @@ A sample of creating a Backstage Doc Template
 
 ## Getting started
 
-Start write your documentation by adding more markdown (.md) files to this folder (/docs) or replace the content in this file.
+xxxStart write your documentation by adding more markdown (.md) files to this folder (/docs) or replace the content in this file.
 
 ## Table of Contents
 

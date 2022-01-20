@@ -1,8 +1,11 @@
-site_name: "ame_sample_doc"
-site_description: "A sample of creating a Backstage Doc Template"
+site_name: "engineering_docs"
+site_description: "Home of the Mux Engineering docs"
 
 nav:
   - Introduction: index.md
+  - Home: home.md
+  - Dashboard: ./dashboard/dashboard.md
+  - FAQ: faq.md
 
 plugins:
   - techdocs-core
