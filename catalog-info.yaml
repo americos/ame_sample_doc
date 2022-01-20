@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "ame_sample_doc"
-  description: "A sample of creating a Backstage Doc Template"
+  name: "engineering_docs"
+  description: "Home of the Mux Engineering docs"
   annotations:
     github.com/project-slug: americos/ame_sample_doc
     backstage.io/techdocs-ref: dir:.
