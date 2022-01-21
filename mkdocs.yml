@@ -2,7 +2,7 @@ site_name: "engineering_docs"
 site_description: "Home of the Mux Engineering docs"
 
 nav:
-  - Home: home.md
+  - Index: index.md
   - Dashboard: ./dashboard/dashboard.md
   - FAQ: faq.md
 
